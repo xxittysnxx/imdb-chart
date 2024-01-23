@@ -1,4 +1,4 @@
-# Hierarchical Bar Chart
+# IMDB chart
 
 This is a National Chengchi Univercity Data Visualization Project using concept of SRVis.
 
