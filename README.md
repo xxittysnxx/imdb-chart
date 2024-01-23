@@ -1,6 +1,6 @@
 # IMDB chart
 
-This is a National Chengchi Univercity Data Visualization Project using concept of SRVis.
+This is a National Chengchi Univercity Information Visualization Project using concept of SRVis.
 
 https://observablehq.com/@d3/hierarchical-bar-chart@330
 
