@@ -1,9 +1,10 @@
 # Hierarchical Bar Chart
 
+This is a National Chengchi Univercity Data Visualization Project using concept of SRVis.
+
 https://observablehq.com/@d3/hierarchical-bar-chart@330
 
-View this notebook in your browser by running a web server in this folder. For
-example:
+View above link to the notebook in your browser by running a web server in this folder. For example:
 
 ~~~sh
 npx http-server
